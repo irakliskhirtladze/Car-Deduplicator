@@ -1,3 +1,4 @@
 SCION.xlsx
 .venv
 SCION.xlsx:Zone.Identifier
+__pycache__/
